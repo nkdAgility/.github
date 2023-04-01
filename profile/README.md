@@ -1,4 +1,8 @@
-## Hi there 👋
+## naked Agility with Martin Hinshelwood & Co.
+
+We are a global Lean-Agile & DevOps Consultancy that provides training, consulting and coaching in Agile, Lean, Scrum, Kanban, and DevOps.
+
+
 
 <!--
 
