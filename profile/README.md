@@ -1,30 +1,32 @@
-## Deep Expertise in DevOps & Agility with naked Agility with Martin Hinshelwood & Co.
-At naked Agility, we're dedicated to helping organizations navigate the complexities of Agile and DevOps with ease. Our consultancy and training services are rooted in deep technical knowledge and a passion for driving significant, impactful change.
+# We help organisations dynamically adapt to market needs!
+**We are for software organisations and software teams!**
 
-### Deliver Value, Adapt Systems, Increase Effectiveness
+We will guide you in moving to a multi-method approach to agility that moves beyond a simple defined process to something more co-evolutionary and highly adaptive to provide a better flow of value for your stakeholders.
 
-Our mission is to guide organizations in building a vision for evolutionary and revolutionary change. We leverage Agile, DevOps, Scrum, & Kanban to help teams on their agile journey, maximizing customer value through lean-agile practices.
+Our expertise in Lean, Agile, DevOps, Scrum, and Kanban drives supports you in optimising the value to your customers and maximising your revenue.
 
-### Training from Experts
+## Measuring Sucess 
 
-Join a global community of learners in our interactive, activity-based courses. We eschew traditional PowerPoint presentations for collaborative sessions in Microsoft Teams and Mural, ensuring an engaging learning experience.
+- NKD INSIGHTS™ - Naked Insights™ is a pioneering tool to help teams improve by illuminating the quality of their teamwork continuously based on scientific insights. Diagnose one or many teams, receive evidence-based feedback and resolve broader organizational issues! 
+  - [Get Started Now!](https://questionnaire.nkdagility.com/) - Improve Your Team! Use our evidence-based models to guide improvement in your team.
+- [Evidence Based-management](https://nkdagility.com/blog/evidence-based-management-gathering-metrics/) - Gathering the metrics for Evidence-based Management in software organisations can be a strenuous task and we are here to help. From figuring out the right metrics to understanding their impact and implications.
 
-### Agile Evolution & Consulting
+## Our Mentor Programs
 
-Our coaches employ evidence-based, hypothesis-driven techniques within an empirical process to validate your organization's efforts in delivering optimal ROI. We're not just trainers; we're seasoned practitioners who continuously learn and share emergent practices.
+- **[Product Management](https://nkdagility.com/global-consultancy-services/product-management-mentor-program/)** - In the rapidly evolving landscape of product development, mastering Agile practices and leadership is not just an advantage; it’s a necessity. NKD Agility’s comprehensive Product Owner and Product Manager Mentoring Program is your gateway to transforming aspiring individuals into visionary product leaders who drive exceptional outcomes in a dynamic market.
+- **[Product Development](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/)** - In the dynamic landscape of product development, where engineering excellence meets the relentless pace of innovation, integrating Agile methodologies, DevOps practices, and platform engineering principles is critical. NKD Agility’s advanced Product Development Mentor Program is designed to empower engineers and product managers alike. It aims to transform them into adept leaders who can navigate the complexities of modern product engineering, ensuring their teams deliver cutting-edge, robust solutions that thrive in a competitive market.
 
-### Partnerships & Recognition
+## Our Training Programs
 
-As an official supplier of Agile training for Microsoft, we deliver Scrum & Kanban training worldwide. We're also an approved supplier for NHS Scotland, reflecting our commitment to excellence and the latest agile and lean practices.
+Our [Immersion Programs](https://nkdagility.com/training-courses/learning-experiences/immersive-learning-experience/) offers a refreshing alternative, breaking the class into shorter sessions across several weeks. This format not only extends learning into real-world business applications but also incorporates reflective sessions for continuous improvement, making it a highly effective and practical approach. Incremental Classroom Learning, Outcome-Based Assignments, & Facilitated Reflections.
 
-### Online Learning & Agile Training
+- [Kanban Training Courses](https://nkdagility.com/training-courses/kanban-training-courses/) - Optimize value flow with our ProKanban.org accredited Kanban training courses and workshops. Learn to visualize work-in-progress and adapt processes for maximum efficiency.
+- [Scrum Training Courses](https://nkdagility.com/training-courses/scrum-training-courses/) - Master complexity our Scrum.org-accredited Professional Scrum training courses and workshops. Learn to apply empiricism to maximise the value of the work done.
 
-Our live, interactive online training classes are designed to be as effective as private in-house training. With access to over 350+ Professional Scrum trainers, we offer specialized courses for various roles, including Scrum Masters, Product Owners, Developers, and Agile Leaders.
+## Our Consulting Programs
 
-### Azure DevOps Migrations & DevOps Technology Consulting
+Our consultants are Microsoft MVPs, Professional Scrum Trainers (PST), Professional Kanban Trainers (PKT), or Agile Kata Trainers (AKT) with years of practical experience in organisations.
 
-Creators of the Azure DevOps Migration Tools, we provide consultancy and support for migrations globally. Our DevOps consultants help organizations maximize their DevOps strategy, automate processes, and modernize product engineering.
-
-### Hear from Our Clients
-
-Our clients, from Schlumberger to Backcountry.com, attest to the transformative impact of our training and consulting services. Their testimonials speak to our ability to facilitate profound organizational change and enhance business agility.
+- [Business Agility Consultancy](https://nkdagility.com/global-consultancy-services/lean-agile-consultancy/) - Our Agile consultants work with organisations to resolve problems and seize opportunities. We collaborate with leaders to identify what successful outcomes look like.
+- [DevOps Technology Consultancy](https://nkdagility.com/global-consultancy-services/devops-technology-consultancy/) - Our DevOps consultants work with organisations to help them get the most out of their DevOps strategy and maximise its effectiveness.
+- [Azure DevOps Migration Tools Consulting](https://nkdagility.com/global-consultancy-services/devops-technology-consultancy/azure-devops-migration-tools-consulting/) - naked Agility is the creator and principal contributor of the [Azure DevOps Migration Tools](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration). 
